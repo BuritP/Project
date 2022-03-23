@@ -29,8 +29,8 @@ This command creates the generated files that parse each Record from Firestore i
 ##### 7.ผู้ใช้สามารถดูรายละเอียดบทความได้
 # User Interface Design:
 ##### หน้าloginและregister
-# ![login](https://user-images.githubusercontent.com/97527905/159707649-64621d33-b2a4-4d4b-bd8a-6dbc7de73612.PNG)
-![regis](https://user-images.githubusercontent.com/97527905/159707782-4b88d1fb-0761-46ce-ac14-e711775b11f6.PNG)
+# ![login](https://user-images.githubusercontent.com/97527905/159711941-c56539c5-b751-4dc1-8467-b6e6312f5422.PNG)
+
 ##### หน้าแรก
 # ![home](https://user-images.githubusercontent.com/97527905/159707928-4b159873-7c20-47d4-ae97-e3801a0ebf9d.PNG)
 ##### หน้าส่งข้อความ
