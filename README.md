@@ -16,7 +16,8 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 
 This command creates the generated files that parse each Record from Firestore into a schema object.
-
+# ที่มาของปัญหา
+##### เนื่องจากในปัจจุบันการค้นหาที่ดินที่ถูกใจนั้นหายากและการติดต่อผู้ที่ลงขายก็ติดต่อได้ยาก จึงทำให้เกิดแอปพลิเคชันซื้อขายที่ดินขึ้นทำให้สามารถค้นหาที่ดินและติดต่อผู้ขายไปในตัว
 # Use case diagram
 ![Capture](https://user-images.githubusercontent.com/97527905/159706250-3ca9f87f-d3e7-43ba-8fa1-ee74fd8d5f70.PNG)
 
@@ -49,5 +50,5 @@ This command creates the generated files that parse each Record from Firestore i
 ##### หน้าโปรไฟล์
 # ![prof](https://user-images.githubusercontent.com/97527905/159708959-d39a220a-b36f-4c69-be67-fe5dc21515c2.PNG)
 
-
+# https://drive.google.com/file/d/1DJCwIYLmblWvDkLfntUvoIChja7zH6Ws/view?usp=sharing
 
