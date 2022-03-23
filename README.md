@@ -18,7 +18,7 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 This command creates the generated files that parse each Record from Firestore into a schema object.
 
 Use case diagram
-# ![Capture](https://user-images.githubusercontent.com/97527905/159706250-3ca9f87f-d3e7-43ba-8fa1-ee74fd8d5f70.PNG)
+![Capture](https://user-images.githubusercontent.com/97527905/159706250-3ca9f87f-d3e7-43ba-8fa1-ee74fd8d5f70.PNG)
 
 ##### 1.ผู้ใช้สามารถล็อกอินได้
 ##### 2.ผู้ใช้สามารถค้นหาที่ดินได้
